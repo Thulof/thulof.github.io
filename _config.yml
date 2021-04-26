@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 曲大超的个人主页
 subtitle:
-description:
-keywords:
-author: John Doe
-language:
+description: 记录一些知识、感悟
+keywords: 程序员, 交互设计, 人机交互
+author: Thulof
+language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://thulof.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: Anisina
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
